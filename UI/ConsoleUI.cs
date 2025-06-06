@@ -120,7 +120,8 @@ namespace MonitoramentoAlagamentos.UI
             Console.WriteLine("3. Consultar Eventos");
             Console.WriteLine("4. Gerenciar Usuários");
             Console.WriteLine("5. Gerenciar Configurações");
-            Console.WriteLine("6. Registrar Evento");
+            Console.WriteLine("6. Logout");
+            Console.WriteLine("7. Registrar Evento");
             Console.WriteLine("0. Sair");
             
             Console.Write("Escolha uma opção: ");
