@@ -2,10 +2,11 @@
 
 Sistema desenvolvido para monitorar zonas de risco de alagamento em São Paulo, permitindo o registro de níveis pluviométricos e geração de relatórios.
 
-## Requisitos
+## Grupo
 
-- .NET 6.0 SDK ou superior
-- Sistema operacional Windows, Linux ou macOS
+- João Antonio Vieira Rihan - rm99656
+- Rodrigo Fernandes Serafim - rm550816
+
 
 ## Instalação
 
