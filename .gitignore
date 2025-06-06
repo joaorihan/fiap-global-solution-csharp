@@ -1,0 +1,39 @@
+## Arquivos e diretórios ignorados pelo Git
+
+# Arquivos de build
+bin/
+obj/
+
+# Arquivos de IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.idea/
+
+# Arquivos de log
+*.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Arquivos de configuração local
+appsettings.Development.json
+appsettings.Local.json
+
+# Arquivos de ambiente
+.env
+.env.local
+.env.*.local
+
+# Arquivos de sistema
+Thumbs.db 
